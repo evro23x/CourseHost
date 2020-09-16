@@ -1,0 +1,5 @@
+request.log
+.env
+.env_db_query
+.idea/*
+prev-backend.code-workspace
