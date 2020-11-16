@@ -1,5 +1,5 @@
 # Course - backend #
-host - http://157.245.22.136 <br>
+host - localhost <br>
 port - 80 <br>
 
 ## Methods:
